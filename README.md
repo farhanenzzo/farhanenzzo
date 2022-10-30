@@ -1,5 +1,7 @@
+```
+Hi there 👋🏻 welcome to my Github! I'm a chaos engineering enthusiast, web developer. I like Java, JavaScript and Python. I like to explore Cloud Technology.
+```
 
-**`Hi there 👋🏻 welcome to my Github! I'm a chaos engineering enthusiast, web developer. I like Java, JavaScript and Python. I like to explore Cloud Technology.`**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,5 +18,20 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+**`Email me at: farhan.enzo99@gmail.com`**
+
+<a href="https://www.linkedin.com/in/farhan-enzo/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+ -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=farhanenzzo&show_icons=true&theme=dark"/>
+ -->
+
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farhan-enzzo&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
+<!-- [youtube](https://www.youtube.com/watch?v=9A8sQZDRn5o)
+☛
+➮ -->
