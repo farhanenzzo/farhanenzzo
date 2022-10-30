@@ -1,5 +1,5 @@
 
-**`Hi there 👋 welcome to my Github! I'm a chaos engineering enthusiast, web developer. I like Java, JavaScript and Python. I like to explore Cloud Technology.`**
+**`Hi there 👋🏻 welcome to my Github! I'm a chaos engineering enthusiast, web developer. I like Java, JavaScript and Python. I like to explore Cloud Technology.`**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
