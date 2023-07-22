@@ -1,7 +1,7 @@
 ```python
                    
               Hi there 👋🏻 welcome to my Github Profile! I like to do stuff with Back-End web. My coding journey started with Java. 
-                    I believe the more you learn the less you know, learning never stops,I like to push my boundaries
+                    I believe the more we learn the less we know, learning never stops, I like to push my boundaries
                                                    through continuous learning.
                           
 ```
