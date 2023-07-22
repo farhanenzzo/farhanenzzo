@@ -1,7 +1,8 @@
 ```python
                    
-              Hi there 👋🏻 welcome to my Github! I'm a chaos engineering enthusiast, web developer. 
-                     I like Java, JavaScript and Python. I like to explore Cloud Technology.
+              Hi there 👋🏻 welcome to my Github Profile! A Back-End web developer. 
+                 My coding journey started with Java. I believe the more you learn the less you know,
+                         learning never stops,I like to push my boundaries through continuous learning.
                           
 ```
 ---
