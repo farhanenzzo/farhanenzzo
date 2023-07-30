@@ -18,5 +18,3 @@ _**` ☛ email me at: farhanonthego@gmail.com`**_
 
 
 <a href="https://www.linkedin.com/in/farhan-enzo/"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href=""><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
