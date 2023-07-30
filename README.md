@@ -1,10 +1,10 @@
-```python
+```txt
                    
-              Hi there 👋🏻 welcome to my Github Profile! I like to do stuff with Back-End web. My coding journey started with Java. 
-                    I believe the more we learn the less we know, learning never stops, I like to push my boundaries
-                                                   through continuous learning.
+              Hi there 👋🏻 welcome to my Github Profile! I like to do stuff with Back-End web.
+              My coding journey started with Java. I believe the more we learn the less we know,
+              learning never stops, I like to push my boundariesthrough continuous learning.
 
-                                        _** ☛ email me at: farhanonthego@gmail.com **_
+                           _** ☛ email me at: farhanonthego@gmail.com **_
                           
 ```
 ---
