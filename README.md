@@ -5,6 +5,7 @@
               learning never stops, I like to push my boundariesthrough continuous learning.
 
                            _** ☛ email me at: farhanonthego@gmail.com **_
+
                           
 ```
 ---
@@ -19,6 +20,6 @@
 
 </p>
 
-<a href="https://www.linkedin.com/in/farhan-enzo/"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/farhan-enzo/"><img align="right" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="21px"/></a>
 
 
